@@ -1,6 +1,6 @@
 title: Alina Devkota
 logo: /asset/alina.jpg
 description: Machine Learning Engineer
-remote_theme: "jekyll/minima@1e8a445"
+remote_theme: jekyll/minima@d4d779a
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
