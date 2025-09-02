@@ -18,7 +18,7 @@
 
 /* Header */
 .page-header {
-  background-color: var(--theme-color);
+  // background-color: var(--theme-color);
   background-image: linear-gradient(120deg, var(--theme-color-dark), var(--theme-color));
 }
 html {
@@ -31,36 +31,36 @@ html {
 
 /* Links */
 a {
-  color: var(--theme-color);
+  // color: var(--theme-color);
   text-decoration: none;
   &:hover {
-    color: var(--theme-color-dark);
+    // color: var(--theme-color-dark);
     text-decoration: underline;
   }
 }
 
 /* Buttons */
-.btn {
-  background-color: var(--theme-color);
-  border-color: var(--theme-color-dark);
-  &:hover {
-    background-color: var(--theme-color-dark);
-  }
-}
+// .btn {
+//   background-color: var(--theme-color);
+//   border-color: var(--theme-color-dark);
+//   &:hover {
+//     background-color: var(--theme-color-dark);
+//   }
+// }
 
 /* Headings */
-h1, h2, h3, h4, h5, h6 {
-  color: var(--theme-color);
-}
+// h1, h2, h3, h4, h5, h6 {
+//   color: var(--theme-color);
+// }
 
 /* Main content accents */
 .main-content {
-  border-top: 4px solid var(--theme-color);
+  // border-top: 4px solid var(--theme-color);
   
-  hr {
-    background-color: var(--theme-color);
-    opacity: 0.3;
-  }
+  // hr {
+  //   background-color: var(--theme-color);
+  //   opacity: 0.3;
+  // }
   
   /* Style your education/skills sections */
   ul {
@@ -68,36 +68,36 @@ h1, h2, h3, h4, h5, h6 {
     li {
       margin-bottom: 0.8em;
       &::marker {
-        color: var(--theme-color-light);
+        // color: var(--theme-color-light);
       }
     }
   }
 }
 
 /* Footer */
-.site-footer {
-  border-top: 1px solid var(--theme-color-transparent);
-  a {
-    color: var(--theme-color);
-  }
-}
+// .site-footer {
+//   border-top: 1px solid var(--theme-color-transparent);
+//   a {
+//     color: var(--theme-color);
+//   }
+// }
 
 /* Tables */
-table {
-  th {
-    background-color: var(--theme-color-transparent);
-    color: var(--theme-color-dark);
-  }
-  tr:nth-child(even) {
-    background-color: var(--theme-color-transparent);
-  }
-}
+// table {
+//   th {
+//     background-color: var(--theme-color-transparent);
+//     color: var(--theme-color-dark);
+//   }
+//   tr:nth-child(even) {
+//     background-color: var(--theme-color-transparent);
+//   }
+// }
 
 /* Code blocks */
-.highlight {
-  background-color: var(--theme-color-transparent);
-  border-left: 3px solid var(--theme-color);
-}
+// .highlight {
+//   background-color: var(--theme-color-transparent);
+//   border-left: 3px solid var(--theme-color);
+// }
 /* Profile photo styles */
 .profile-photo-container {
   position: absolute;
@@ -153,7 +153,7 @@ table {
 /* Navigation and Search Bar Styles */
 /* Navigation and Search Bar Styles */
 .site-nav {
-  background-color: var(--theme-color);
+  // background-color: var(--theme-color);
   padding: 0.8rem 2rem;
   position: sticky;
   top: 0;
@@ -179,7 +179,7 @@ table {
     margin: 0 1rem;
     
     a {
-      color: white;
+      // color: white;
       text-decoration: none;
       font-weight: 500;
       transition: opacity 0.3s;
@@ -226,7 +226,7 @@ table {
   display: none;
   background: none;
   border: none;
-  color: white;
+  // color: white;
   font-size: 1.5rem;
   cursor: pointer;
 }
@@ -242,7 +242,7 @@ table {
     top: 100%;
     left: 0;
     right: 0;
-    background-color: var(--theme-color-dark);
+    // background-color: var(--theme-color-dark);
     flex-direction: column;
     padding: 1rem;
     
@@ -269,8 +269,8 @@ table {
   padding: 2rem 0;
   
   h2 {
-    color: var(--theme-color);
-    border-bottom: 2px solid var(--theme-color-light);
+    // color: var(--theme-color);
+    // border-bottom: 2px solid var(--theme-color-light);
     padding-bottom: 0.5rem;
     margin-bottom: 1.5rem;
   }
@@ -301,11 +301,11 @@ table {
     flex: 1;
     text-align: center;
     padding: 0.75rem;
-    background: var(--theme-color);
-    color: white;
+    // background: var(--theme-color);
+    // color: white;
     
     &:hover {
-      background: var(--theme-color-dark);
+      // background: var(--theme-color-dark);
     }
     
     i {
