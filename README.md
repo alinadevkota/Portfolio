@@ -132,5 +132,3 @@
 - 💼 **Department Coordinator** – Kathmandu Valley Leo Club, District 325 A1 *(Nov. 2015 – Dec. 2016, Lalitpur, Nepal)*
 
 ---
-
-> Designed with ❤️ using GitHub Pages and Markdown
