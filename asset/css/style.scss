@@ -2,12 +2,12 @@
 ---
 @import "{{ site.theme }}";
 
-:root {
-  --theme-color: #157878;
-  --theme-color-light: #4d9e9e;
-  --theme-color-dark: #0e5252;
-  --theme-color-transparent: rgba(21, 120, 120, 0.1);
-}
+// :root {
+//   --theme-color: #157878;
+//   --theme-color-light: #4d9e9e;
+//   --theme-color-dark: #0e5252;
+//   --theme-color-transparent: rgba(21, 120, 120, 0.1);
+// }
 
 /* Apply to body */
 body {
