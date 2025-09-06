@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2023-10-15-multimodal-federated-learning-healthcare
 excerpt: 'This paper reviews the role of multimodal federated learning in healthcare, highlighting its potential to combine diverse medical data while preserving patient privacy. It surveys state-of-the-art approaches, identifies current challenges and limitations, and outlines future directions for advancing secure and effective healthcare AI.'
 date: 2023-10-15
-venue: 'arXiv'
+venue: 'arXiv preprint'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://arxiv.org/pdf/2310.09650'
 # bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
