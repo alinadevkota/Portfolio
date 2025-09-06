@@ -7,13 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Computer Science at West Virginia University, with a focus on using of AI for healthcare. My research has focused on foundation models and privacy-preserving techniques (federated learning) for medical imaging, particularly in gastrointestinal endoscopy. I am also passionate about exploring projects in computer vision, large language models, and other applications of deep learning and machine learning.
-
-Before starting my Ph.D., I worked as a Machine Learning Engineer for four years, where I developed and deployed machine learning models across various applications. I enjoy tackling challenging problems, learning new techniques, and applying them creatively to make an impact.
-
-I completed my Bachelor's degree in Computer Engineering from Tribhuvan University, Nepal. Looking ahead, I plan to concentrate future research in exploring how advanced computer vision techniques and language models can be applied to medical imaging and enhance diagnostic processes and improve patient outcomes.
+I am a Ph.D. student in Computer Science at West Virginia University, working with Dr. Prashnna K. Gyawali. Before starting my Ph.D., I worked as a Machine Learning Engineer for four years, where I developed and deployed machine learning models across various applications. I enjoy tackling challenging problems, learning new techniques, and applying them creatively to make an impact. I completed my Bachelor's degree in Computer Engineering from Tribhuvan University, Nepal.
 
 Outside of research, I enjoy playing chess and can be found on Chess.com under the username AlinaDevkota.
+
+Research Interests
+======
+My research is focused on using of AI for healthcare. My current research has focused on foundation models and privacy-preserving techniques (federated learning) for medical imaging, particularly in gastrointestinal endoscopy. I am also passionate about exploring projects in computer vision, large language models, and other applications of deep learning and machine learning.
+Looking ahead, I plan to concentrate future research in exploring how advanced computer vision techniques and language models can be applied to medical imaging and enhance diagnostic processes and improve patient outcomes.
 
 A data-driven personal website
 ======
