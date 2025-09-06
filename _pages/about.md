@@ -7,16 +7,22 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Computer Science at West Virginia University, working with [Dr. Prashnna K. Gyawali](https://pkgyawali.com/) at the [Machine Intelligence Lab](https://sites.google.com/view/gyawalilab/). Before starting my Ph.D., I worked as a Machine Learning Engineer for four years, where I developed and deployed machine learning models across various applications. I enjoy tackling challenging problems, learning new techniques, and applying them creatively to make an impact. I completed my Bachelor's degree in Computer Engineering from Tribhuvan University, Nepal.
+I am a Second-year Ph.D. student in Computer Science at West Virginia University, working with [Dr. Prashnna K. Gyawali](https://pkgyawali.com/) at the [Machine Intelligence Lab](https://sites.google.com/view/gyawalilab/).
+Before starting my Ph.D., I worked as a Machine Learning Engineer for four years, where I developed and deployed machine learning models across various applications.
+I completed my Bachelor's degree in Computer Engineering from Pulchowk Campus (Institute of Engineering), Tribhuvan University, Nepal.
 
+I enjoy tackling challenging problems, learning new techniques, and applying them creatively to make an impact.
 Outside of research, I enjoy playing chess and can be found on [chess.com](https://www.chess.com/) under the username [AlinaDevkota](https://www.chess.com/member/alinadevkota).
+
+Please do not hesitate to reach out to me via linkedin or email at: devkota.alina@gmail.com.
 
 Research Interests
 ======
-My research is focused on using of AI for healthcare. My current research has focused on foundation models and privacy-preserving techniques (federated learning) for medical imaging, particularly in gastrointestinal endoscopy. I am also passionate about exploring projects in computer vision, large language models, and other applications of deep learning and machine learning.
-Looking ahead, I plan to concentrate future research in exploring how advanced computer vision techniques and language models can be applied to medical imaging and enhance diagnostic processes and improve patient outcomes.
+My research is focused on applying Artificial Intelligence (AI) to healthcare. My current research has focused on foundation models and privacy-preserving techniques, such as federated learning for medical imaging, particularly in gastrointestinal endoscopy.
+I am also passionate about exploring broader areas of computer vision, large language models, and other applications of deep learning and machine learning.
 
-A data-driven personal website
+Looking ahead, I plan to concentrate future research at the intersection of advanced computer vision and language models for medical imaging, with the goal of enhancing diagnostic accuracy and improving patient outcomes.
+
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
