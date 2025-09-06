@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Computer Science at West Virginia University, working with Dr. Prashnna K. Gyawali at the [Machine Intelligence Lab](https://sites.google.com/view/gyawalilab/). Before starting my Ph.D., I worked as a Machine Learning Engineer for four years, where I developed and deployed machine learning models across various applications. I enjoy tackling challenging problems, learning new techniques, and applying them creatively to make an impact. I completed my Bachelor's degree in Computer Engineering from Tribhuvan University, Nepal.
+I am a Ph.D. student in Computer Science at West Virginia University, working with [Dr. Prashnna K. Gyawali](https://pkgyawali.com/) at the [Machine Intelligence Lab](https://sites.google.com/view/gyawalilab/). Before starting my Ph.D., I worked as a Machine Learning Engineer for four years, where I developed and deployed machine learning models across various applications. I enjoy tackling challenging problems, learning new techniques, and applying them creatively to make an impact. I completed my Bachelor's degree in Computer Engineering from Tribhuvan University, Nepal.
 
 Outside of research, I enjoy playing chess and can be found on [chess.com](https://www.chess.com/) under the username [AlinaDevkota](https://www.chess.com/member/alinadevkota).
 
