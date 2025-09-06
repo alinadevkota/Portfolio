@@ -89,18 +89,18 @@
 
   @include breakpoint($large) {
     display: block;
-    width: auto;
-    height: auto;
+    // width: auto;
+    // height: auto;
   }
 
   img {
     max-width: 175px;
     border-radius: 50%;
 
-    // @include breakpoint($large) {
-    //   padding: 5px;
-    //   border: 1px solid var(--global-border-color);
-    // }
+    @include breakpoint($large) {
+      padding: 5px;
+      border: 1px solid var(--global-border-color);
+    }
   }
 }
 
