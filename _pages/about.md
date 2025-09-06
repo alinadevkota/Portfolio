@@ -11,7 +11,7 @@ I am a Ph.D. student in Computer Science at West Virginia University, with a foc
 
 Before starting my Ph.D., I worked as a Machine Learning Engineer for four years, where I developed and deployed machine learning models across various applications. I enjoy tackling challenging problems, learning new techniques, and applying them creatively to make an impact.
 
-I completed my Bachelor's degree in Computer ENgineering from Tribhuvan University, Nepal. Looking ahead, I plan to concentrate future research in exploring how advanced computer vision techniques can be applied to medical imaging and enhance diagnostic processes and improve patient outcomes.
+I completed my Bachelor's degree in Computer Engineering from Tribhuvan University, Nepal. Looking ahead, I plan to concentrate future research in exploring how advanced computer vision techniques and language models can be applied to medical imaging and enhance diagnostic processes and improve patient outcomes.
 
 Outside of research, I enjoy playing chess and can be found on Chess.com under the username AlinaDevkota.
 
