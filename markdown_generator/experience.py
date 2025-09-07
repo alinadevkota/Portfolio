@@ -84,7 +84,7 @@ for row, item in talks.iterrows():
         md += 'venue: "' + item.venue + '"\n'
         
     if len(str(item.start_date)) > 3:
-        md += str(item.start_date)
+        md += "date: " + str(item.start_date)
     if len(str(item.end_date)) > 3:
         md += " - " + str(item.end_date) + "\n"
     else:
