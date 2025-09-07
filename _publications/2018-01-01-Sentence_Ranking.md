@@ -1,6 +1,7 @@
 ---
 title: "Sentence Ranking and Answer Pinpointing in Online Discussion Forums Utilizing User-generated Metrics and Highlights"
-collection: manuscripts
+collection: publications
+category: manuscripts
 permalink: /publication/2018-01-01-Sentence_Ranking
 excerpt: 'This work presents a framework for extracting precise answers from online discussion forums by combining sentence ranking with user-generated metrics and highlights. The approach enables accurate answer pinpointing, improving search relevance and supporting better question-answering in forums.'
 date: 2018-01-01

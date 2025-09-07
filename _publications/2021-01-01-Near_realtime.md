@@ -1,6 +1,7 @@
 ---
 title: "Near Real-Time Mobile Profiling and Modeling of Fine-Scale Environmental Proxies Along Major Road Lines of Nepal"
-collection: manuscripts
+collection: publications
+category: manuscripts
 permalink: /publication/2021-01-01-Near_realtime
 excerpt: 'We present a methodology using GPS-enabled mobile sensors to collect and model fine-scale environmental proxies (e.g., temperature, CO₂, PM₂.₅) along major roadways in Nepal, demonstrating the effectiveness of ARIMA and RNNs for real-time and historical climate modeling.'
 date: 2021-01-01
