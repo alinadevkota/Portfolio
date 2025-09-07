@@ -71,14 +71,14 @@ for row, item in talks.iterrows():
     year = item.start_date[:4]
     
     md = "---\ntitle: \""   + item.title + '"\n'
-    md += "collection: talks" + "\n"
+    md += "collection: teaching" + "\n"
     
     if len(str(item.type)) > 3:
         md += 'type: "' + item.type + '"\n'
     else:
-        md += 'type: "Talk"\n'
+        md += 'type: "Teaching"\n'
     
-    md += "permalink: /talks/" + html_filename + "\n"
+    md += "permalink: /experience/" + html_filename + "\n"
     
     if len(str(item.venue)) > 3:
         md += 'venue: "' + item.venue + '"\n'
