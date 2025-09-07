@@ -71,12 +71,12 @@ for row, item in talks.iterrows():
     year = item.start_date[:4]
     
     md = "---\ntitle: \""   + item.title + '"\n'
-    md += "collection: teaching" + "\n"
+    md += "collection: experience" + "\n"
     
     if len(str(item.type)) > 3:
         md += 'type: "' + item.type + '"\n'
     else:
-        md += 'type: "Teaching"\n'
+        md += 'type: "Experience"\n'
     
     md += "permalink: /experience/" + html_filename + "\n"
     
@@ -84,11 +84,9 @@ for row, item in talks.iterrows():
         md += 'venue: "' + item.venue + '"\n'
         
     if len(str(item.start_date)) > 3:
-        md += "date: " + str(item.start_date)
+        md += "start_date: " + str(item.start_date) + "\n"
     if len(str(item.end_date)) > 3:
-        md += " - " + str(item.end_date) + "\n"
-    else:
-        md += " - Present"+ "\n"
+        md += "end_date: " + str(item.end_date) + "\n"
     
     if len(str(item.location)) > 3:
         md += 'location: "' + str(item.location) + '"\n'
