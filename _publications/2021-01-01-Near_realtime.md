@@ -14,4 +14,4 @@ citation: 'Adhikari, Nanda B., Sushant Gautam, Alina Devkota, Saloni Shikha, Spa
 
 We present a methodology using GPS-enabled mobile sensors to collect and model fine-scale environmental proxies (e.g., temperature, CO₂, PM₂.₅) along major roadways in Nepal, demonstrating the effectiveness of ARIMA and RNNs for real-time and historical climate modeling.
 
-Recommended citation: Adhikari, Nanda B., Sushant Gautam, Alina Devkota, Saloni Shikha, Spandan Pyakurel, and Mandira Pradhananga Adhikari. "Near Real-Time Mobile Profiling and Modeling of Fine-Scale Environmental Proxies Along Major Road Lines of Nepal." In International Conference on Mobile Computing and Sustainable Informatics, pp. 605-617. Cham: Springer International Publishing, 2020.
+Citation: Adhikari, Nanda B., Sushant Gautam, Alina Devkota, Saloni Shikha, Spandan Pyakurel, and Mandira Pradhananga Adhikari. "Near Real-Time Mobile Profiling and Modeling of Fine-Scale Environmental Proxies Along Major Road Lines of Nepal." In International Conference on Mobile Computing and Sustainable Informatics, pp. 605-617. Cham: Springer International Publishing, 2020.

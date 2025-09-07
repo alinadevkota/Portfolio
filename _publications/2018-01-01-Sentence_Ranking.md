@@ -14,4 +14,4 @@ citation: 'Gautam, Sushant, Saloni Shikha, Alina Devkota, and Spandan Pyakurel. 
 
 This work presents a framework for extracting precise answers from online discussion forums by combining sentence ranking with user-generated metrics and highlights. The approach enables accurate answer pinpointing, improving search relevance and supporting better question-answering in forums.
 
-Recommended citation: Gautam, Sushant, Saloni Shikha, Alina Devkota, and Spandan Pyakurel. "Sentence Ranking and Answer Pinpointing in Online Discussion Forums Utilising User-generated Metrics and Highlights." Proceedings of the NaSCoIT (2018).
+Citation: Gautam, Sushant, Saloni Shikha, Alina Devkota, and Spandan Pyakurel. "Sentence Ranking and Answer Pinpointing in Online Discussion Forums Utilising User-generated Metrics and Highlights." Proceedings of the NaSCoIT (2018).
