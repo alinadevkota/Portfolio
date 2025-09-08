@@ -399,3 +399,28 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+.skills-list .expert {
+  color: #0b6623;       /* dark green */
+  font-weight: bold;
+  background: #d6f5d6;
+  padding: 2px 6px;
+  border-radius: 6px;
+}
+
+.skills-list .intermediate {
+  color: #b36b00;       /* amber/orange */
+  font-weight: bold;
+  background: #ffe6cc;
+  padding: 2px 6px;
+  border-radius: 6px;
+}
+
+.skills-list .beginner {
+  color: #8b0000;       /* dark red */
+  font-weight: bold;
+  background: #ffd6d6;
+  padding: 2px 6px;
+  border-radius: 6px;
+}
+
