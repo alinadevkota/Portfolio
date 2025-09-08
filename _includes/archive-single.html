@@ -49,10 +49,10 @@
         {% elsif post.collection == 'awards' %}
           <p>
             {% if post.type %}
-              {{ post.type }},
+              {{ post.type }}|
             {% endif %}
             {% if post.sub_title %}
-              {{ post.sub_title }},
+              {{ post.sub_title }}|
             {% endif %}
             <i>{{ post.venue }}</i> | {{ post.date | date: "%Y %B" }} </p>
         {% elsif post.date %}
