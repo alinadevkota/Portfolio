@@ -4,5 +4,5 @@ collection: awards
 type: "Awards"
 venue: "Fusemachines Nepal"
 date: 2019-03-05
-date: Fusemachines AI Fellowship Nepal
+sub_title: Fusemachines AI Fellowship Nepal
 ---

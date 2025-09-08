@@ -87,7 +87,7 @@ for row, item in talks.iterrows():
         md += "date: " + str(item.date) + "\n"
 
     if len(str(item.sub_title)) > 3:
-        md += "date: " + str(item.sub_title) + "\n"
+        md += "sub_title: " + str(item.sub_title) + "\n"
 
            
     md += "---\n"
