@@ -78,13 +78,16 @@ for row, item in talks.iterrows():
     else:
         md += 'type: "Awards"\n'
     
-    md += "permalink: /awards/" + html_filename + "\n"
+    # md += "permalink: /awards/" + html_filename + "\n"
     
     if len(str(item.venue)) > 3:
         md += 'venue: "' + item.venue + '"\n'
         
     if len(str(item.date)) > 3:
         md += "date: " + str(item.date) + "\n"
+
+    if len(str(item.sub_title)) > 3:
+        md += "date: " + str(item.sub_title) + "\n"
 
            
     md += "---\n"
