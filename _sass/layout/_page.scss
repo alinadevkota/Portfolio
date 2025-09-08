@@ -401,7 +401,7 @@
 }
 
 .skills-list .expert {
-  color: #0b6623;       /* dark green */
+  color: --global-code-text-color;       /* dark green */
   font-weight: bold;
   background: #d6f5d6;
   padding: 2px 6px;
@@ -409,7 +409,7 @@
 }
 
 .skills-list .intermediate {
-  color: #b36b00;       /* amber/orange */
+  color: --global-code-text-color;       /* amber/orange */
   font-weight: bold;
   background: #ffe6cc;
   padding: 2px 6px;
@@ -417,7 +417,7 @@
 }
 
 .skills-list .beginner {
-  color: #8b0000;       /* dark red */
+  color: --global-code-text-color;       /* dark red */
   font-weight: bold;
   background: #ffd6d6;
   padding: 2px 6px;
