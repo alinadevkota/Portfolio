@@ -12,7 +12,7 @@ Before starting my Ph.D., I worked as a Machine Learning Engineer for four years
 I completed my Bachelor's degree in Computer Engineering from Pulchowk Campus (Institute of Engineering), Tribhuvan University, Nepal.
 
 I enjoy tackling challenging problems, learning new techniques, and applying them creatively to make an impact.
-Outside of research, I enjoy playing chess and can be found on [chess.com](https://www.chess.com/) under the username [AlinaDevkota](https://www.chess.com/member/alinadevkota).
+Outside of research, I enjoy playing chess and can be found on chess.com under the username [AlinaDevkota](https://www.chess.com/member/alinadevkota).
 
 Please do not hesitate to reach out to me via linkedin or email at: devkota.alina@gmail.com.
 
